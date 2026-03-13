@@ -1,0 +1,9 @@
+{
+  "name": "nhl-oracle",
+  "version": "1.0.0",
+  "description": "NHL Predictions & Picks — Live updates every hour",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
